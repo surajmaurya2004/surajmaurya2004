@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Maurya</h1>
+<h1 align="center">Hi 👋 I'm Suraj Maurya</h1>
 <h3 align="center">Aspiring Software Developer | C++ & React Learner</h3>
 
 <p align="center">
@@ -38,8 +38,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmaurya2004&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
 
 ---
 
