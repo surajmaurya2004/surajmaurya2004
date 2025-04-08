@@ -1,10 +1,57 @@
- Hi 👋
- I'm Suraj Maurya
+<h1 align="center">Hi 👋, I'm Suraj Maurya</h1>
+<h3 align="center">Aspiring Software Developer | Open Source Enthusiast | C++ & React Learner</h3>
 
-**Experience is the name everyone gives to their mistakes**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+%7C+React+%7C+DSA+Learner;GSoC+2025+Aspiring+Contributor;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
-- 🌱 I'm currently learning C++.
-- 📫 How to reach me: surajmaurya0525@gmail.com
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech CSE Student at IET Khandari, Agra (2022–2026)
+- 🌱 Currently learning **C++**, **DSA**, and **React**
+- 🚀 Preparing for **GSoC 2025** – Contributing to **Chromium**
+- 🛠️ Exploring **Git & GitHub**, Open Source, and Web Development
+- 💡 I believe in *"Experience is the name everyone gives to their mistakes."* – Oscar Wilde
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajmaurya2004&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmaurya2004&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **surajmaurya0525@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/) (add your link)
+- 🌐 [Portfolio (Coming Soon!)](#)
+
+---
+
+<p align="center">
+  Thanks for visiting! Keep Coding 🚀
+</p>
 
 ---
 
