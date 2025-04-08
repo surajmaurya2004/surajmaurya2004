@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Maurya</h1>
-<h3 align="center">Aspiring Software Developer | Open Source Enthusiast | C++ & React Learner</h3>
+<h3 align="center">Aspiring Software Developer | C++ & React Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+%7C+React+%7C+DSA+Learner;GSoC+2025+Aspiring+Contributor;Always+learning+something+new!" alt="Typing SVG" />
@@ -11,9 +11,9 @@
 
 - 🎓 B.Tech CSE Student at IET Khandari, Agra (2022–2026)
 - 🌱 Currently learning **C++**, **DSA**, and **React**
-- 🚀 Preparing for **GSoC 2025** – Contributing to **Chromium**
-- 🛠️ Exploring **Git & GitHub**, Open Source, and Web Development
-- 💡 I believe in *"Experience is the name everyone gives to their mistakes."* – Oscar Wilde
+- 🚀 Preparing for **GSoC 2025** 
+- 🛠️ Exploring **Git & GitHub**, and Web Development
+  
 
 ---
 
@@ -40,18 +40,6 @@
 </p>
 
 ---
-
-## 📫 Contact Me
-
-- 📧 Email: **surajmaurya0525@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/) (add your link)
-- 🌐 [Portfolio (Coming Soon!)](#)
-
----
-
-<p align="center">
-  Thanks for visiting! Keep Coding 🚀
-</p>
 
 ---
 
