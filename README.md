@@ -9,11 +9,7 @@
 ---
 
 ### Connect with me:
-<p align="left">
-  <a href="https://instagram.com/__suraj137" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
+
  <!-- Gmail -->
   <a href="mailto:surajmaurya0525@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
