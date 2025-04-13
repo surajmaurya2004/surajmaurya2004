@@ -44,22 +44,20 @@
 
 ### Connect with me:
 
- <!-- Gmail -->
-  <a href="mailto:surajmaurya0525@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
-  </a>
+<!-- Gmail -->
+<a href="mailto:surajmaurya0525@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+</a>
 
-  <!-- Twitter -->
-  <a href="https://x.com/SurajMa56831075" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
-  </a>
+<!-- Twitter -->
+<a href="https://x.com/SurajMa56831075" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
+</a>
 
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/suraj-maurya-b9603a296" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
-
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/suraj-maurya-b9603a296" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 ---
 
