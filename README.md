@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE Student at IET Khandari, Agra (2022–2026)
+- 🎓 B.Tech CSE Student at IET Khandari, Agra (2023–2027)
 - 🌱 Currently learning **C++**, **DSA**, and **React**
 - 🚀 Preparing for **GSoC 2025** 
 - 🛠️ Exploring **Git & GitHub**, and Web Development
