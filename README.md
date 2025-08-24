@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋 I'm Suraj Maurya</h1>
-<h3 align="center">Aspiring Software Developer | C++ & React Learner</h3>
+<h3 align="center">Aspiring MERN Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+%7C+React+%7C+DSA+Learner;GSoC+2025+Aspiring+Contributor;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Suraj;Aspiring+MERN+Stack+Developer;C%2B%2B+%7C+React+%7C+DSA;Always+learning+and+building!" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE Student at IET Khandari, Agra (2023–2027)
-- 🌱 Currently learning **C++**, **DSA**, and **React**
-- 🚀 Preparing for **GSoC 2025** 
-- 🛠️ Exploring **Git & GitHub**, and Web Development
+🎓 B.Tech CSE Student at IET Khandari, Agra (2023–2027)
+
+🌱 Learning C++, DSA, and React.js
+
+🛠️ Exploring Git, GitHub, and Full Stack Web Development
+
+💡 Passionate about Open Source and Problem Solving
   
 
 ---
@@ -27,6 +31,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+ 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FFAA00?style=for-the-badge&logo=nosql&logoColor=white)
 
 ---
 
