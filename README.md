@@ -20,34 +20,7 @@
 
 
 ---
-    <style>
-  .typing-container {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    color: #4CAF50;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #4CAF50;
-    width: 0;
-    animation: typing 4s steps(40, end),
-               blink-caret .75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #4CAF50; }
-  }
-</style>
-
-<div class="typing-container">
-  console.log("Hello, World!");
-</div>
----
+  
 
 ## 🛠️ Technologies & Tools
 
