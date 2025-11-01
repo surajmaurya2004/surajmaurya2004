@@ -41,15 +41,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajmaurya2004&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajmaurya2004&layout=compact&theme=dark)
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajmaurya2004&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmaurya2004&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
