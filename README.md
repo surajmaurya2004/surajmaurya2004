@@ -73,6 +73,11 @@
 ---
 
 
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/suraj045?theme=dark&font=Karma&ext=heatmap)
+
+
+
 
 
 
